@@ -7,6 +7,15 @@ Recognizes the face and how much a face is similar to a test image using SVM Cla
     <link rel="stylesheet" href="main.css">
 </head>
 
+<h1>Tools used</h1>
+<p title=Tools used>
+<ul>
+    <li>Pycharm</li>
+  <li>Visual Studio(community version)</li>
+  <li>Histogram Of oriented Gradients method for package face-recognisation</li>
+</ul>
+</p>
+
 <h1>library used</h1>
 <p title=Library used->
 <ul>
