@@ -44,7 +44,7 @@ Recognizes the face and how much a face is similar to a test image using SVM Cla
 </ul>
 </p>
   <h1>Articles for more details bout the backend.</h1>
-<p title=Articles for more details bout the backend. >
+<p title=Articles for more details about the backend. >
 <ul>
 <li>https://github.com/davisking/dlib>
 <li>https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78</li>
